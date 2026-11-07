@@ -1,0 +1,236 @@
+{
+  "upstream": "FWeynschenk/VideoFilters",
+  "fork": "facundosterzerforino/VideoFilters",
+  "source_commit": "e8f311e3ffe5047860ab8b3f8becbba8857f2ec1",
+  "version": "1.4.1",
+  "manifest_version": 3,
+  "runtime_modified": false,
+  "build_required": false,
+  "package_manager_dependencies": 0,
+  "syntax_checks_passed": 6,
+  "files": [
+    {
+      "path": "Extension/background.js",
+      "size": 7738,
+      "sha256": "b22bcb1f7663a6a7497a8c19b1e4dcf061d046148004a41e86c4aa0b615fc3fd"
+    },
+    {
+      "path": "Extension/defaultShader.js",
+      "size": 5136,
+      "sha256": "74dd0328faec9fe25369f03b5112a715d4b56a29a93f13d82199b9559e12bae7"
+    },
+    {
+      "path": "Extension/images/add_box_FILL0_wght400_GRAD0_opsz24.png",
+      "size": 221,
+      "sha256": "794d05dce682c0a915c929f06c1d5763f0735145666275689e6ad109f6d4ab7b"
+    },
+    {
+      "path": "Extension/images/delete_forever_FILL0_wght400_GRAD0_opsz24.png",
+      "size": 296,
+      "sha256": "617649f203c697ae3ae54104dd489ed864b85476bfa7640e9ce6ac7aadb06b4c"
+    },
+    {
+      "path": "Extension/images/outline_picture_in_picture_black_24dp.png",
+      "size": 127,
+      "sha256": "5eb632d23015b9d066b36de50ac3e1e317f16c39cbedf99efad2ef531fb8a421"
+    },
+    {
+      "path": "Extension/images/outline_video_settings_black_18dp.png",
+      "size": 1311,
+      "sha256": "b4b4e246347bddc603626709873bed0b8b5b731ef7d7ddf39da36c0e18a9fe54"
+    },
+    {
+      "path": "Extension/images/outline_video_settings_black_24dp.png",
+      "size": 1412,
+      "sha256": "11506f1355a2f728f48501ccc8bf975ebeffef60cc6269bcf71f136152cd524f"
+    },
+    {
+      "path": "Extension/images/outline_video_settings_black_36dp.png",
+      "size": 2098,
+      "sha256": "31c7086d622db31368979bead914b7a24565c46369ff5e0016dce5be6fdf4ce0"
+    },
+    {
+      "path": "Extension/images/outline_video_settings_black_48dp.png",
+      "size": 3089,
+      "sha256": "c52d5338fcad31009560ebdf09738297a709c64d4b07f16e089be180c9ed03d7"
+    },
+    {
+      "path": "Extension/images/round_restart_alt_black_24dp.png",
+      "size": 280,
+      "sha256": "7a897b9117ac0c2d0943de712f73ef9f498c9181d16761d75aa83c5bbe610fb6"
+    },
+    {
+      "path": "Extension/images/save_FILL0_wght400_GRAD0_opsz24.png",
+      "size": 270,
+      "sha256": "d0fa788e815d3d9c66b17c6f5775cf1a0ca89bbcaa99337b85840e0ff7e5aa6a"
+    },
+    {
+      "path": "Extension/manifest.json",
+      "size": 968,
+      "sha256": "0a733b5296a8ec24e7c6b37f73aa33cc5feea1a4f464427c9d895266ca052801"
+    },
+    {
+      "path": "Extension/options.html",
+      "size": 2190,
+      "sha256": "8f2d8247848fb671b24e2c522f31f4167e5ec4432abaeea7e66bb984dc41d18e"
+    },
+    {
+      "path": "Extension/options.js",
+      "size": 14660,
+      "sha256": "b46bb2948ebee847b252b7cb42b14af4777819a24c4b06e1814e7889280fa43c"
+    },
+    {
+      "path": "Extension/popup.html",
+      "size": 737,
+      "sha256": "f6e9fe00a9f757b781a5735d57cdc85095005d32aff1796fd8d6c6d7370a19b9"
+    },
+    {
+      "path": "Extension/popup.js",
+      "size": 51905,
+      "sha256": "c6f9b7d4826756351a98f4f5f203f537c33d8ce53d99c6b44de95b1223b0d760"
+    },
+    {
+      "path": "Extension/shaderParser.js",
+      "size": 1143,
+      "sha256": "8689b6841c51d946dc60e5ba2f8257dc0ade44ddbd019333f8317334e71b87b6"
+    },
+    {
+      "path": "Extension/shared.js",
+      "size": 1560,
+      "sha256": "88456d989657c81b994d6e2ae0f2d5e9b914c0fa457de16779e8c951121a20a5"
+    },
+    {
+      "path": "Extension/styles.css",
+      "size": 10913,
+      "sha256": "206feb65bec01af03ea06731cd092f8b0b3a0d809d7420c8f42737aee1849272"
+    }
+  ],
+  "png_assets": [
+    {
+      "path": "Extension/images/add_box_FILL0_wght400_GRAD0_opsz24.png",
+      "width": 24,
+      "height": 24
+    },
+    {
+      "path": "Extension/images/delete_forever_FILL0_wght400_GRAD0_opsz24.png",
+      "width": 24,
+      "height": 24
+    },
+    {
+      "path": "Extension/images/outline_picture_in_picture_black_24dp.png",
+      "width": 24,
+      "height": 24
+    },
+    {
+      "path": "Extension/images/outline_video_settings_black_18dp.png",
+      "width": 36,
+      "height": 36
+    },
+    {
+      "path": "Extension/images/outline_video_settings_black_24dp.png",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "path": "Extension/images/outline_video_settings_black_36dp.png",
+      "width": 72,
+      "height": 72
+    },
+    {
+      "path": "Extension/images/outline_video_settings_black_48dp.png",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "Extension/images/round_restart_alt_black_24dp.png",
+      "width": 24,
+      "height": 24
+    },
+    {
+      "path": "Extension/images/save_FILL0_wght400_GRAD0_opsz24.png",
+      "width": 24,
+      "height": 24
+    }
+  ],
+  "real_dom_checks": {
+    "environment": "Separate headless Chrome, actual extracted source functions and real DOM; no extension installed and no Vivaldi interaction",
+    "passed": 11,
+    "failed": 0,
+    "results": [
+      {
+        "name": "All nine default values",
+        "passed": true
+      },
+      {
+        "name": "CSS assignment and round-trip: brightness",
+        "passed": true,
+        "css": "blur(0px) brightness(1.5) contrast(1) saturate(1) invert(0) sepia(0) opacity(1) grayscale(0) hue-rotate(0deg)"
+      },
+      {
+        "name": "CSS assignment and round-trip: contrast",
+        "passed": true,
+        "css": "blur(0px) brightness(1) contrast(1.25) saturate(1) invert(0) sepia(0) opacity(1) grayscale(0) hue-rotate(0deg)"
+      },
+      {
+        "name": "CSS assignment and round-trip: saturate",
+        "passed": true,
+        "css": "blur(0px) brightness(1) contrast(1) saturate(1.4) invert(0) sepia(0) opacity(1) grayscale(0) hue-rotate(0deg)"
+      },
+      {
+        "name": "CSS assignment and round-trip: grayscale",
+        "passed": true,
+        "css": "blur(0px) brightness(1) contrast(1) saturate(1) invert(0) sepia(0) opacity(1) grayscale(0.5) hue-rotate(0deg)"
+      },
+      {
+        "name": "CSS assignment and round-trip: hueRotate",
+        "passed": true,
+        "css": "blur(0px) brightness(1) contrast(1) saturate(1) invert(0) sepia(0) opacity(1) grayscale(0) hue-rotate(90deg)"
+      },
+      {
+        "name": "CSS assignment and round-trip: invert",
+        "passed": true,
+        "css": "blur(0px) brightness(1) contrast(1) saturate(1) invert(0.2) sepia(0) opacity(1) grayscale(0) hue-rotate(0deg)"
+      },
+      {
+        "name": "CSS assignment and round-trip: sepia",
+        "passed": true,
+        "css": "blur(0px) brightness(1) contrast(1) saturate(1) invert(0) sepia(0.3) opacity(1) grayscale(0) hue-rotate(0deg)"
+      },
+      {
+        "name": "CSS assignment and round-trip: blur",
+        "passed": true,
+        "css": "blur(2px) brightness(1) contrast(1) saturate(1) invert(0) sepia(0) opacity(1) grayscale(0) hue-rotate(0deg)"
+      },
+      {
+        "name": "CSS assignment and round-trip: opacity",
+        "passed": true,
+        "css": "blur(0px) brightness(1) contrast(1) saturate(1) invert(0) sepia(0) opacity(0.8) grayscale(0) hue-rotate(0deg)"
+      },
+      {
+        "name": "Percent/unit normalization",
+        "passed": true
+      }
+    ],
+    "untrustedLabelObservations": {
+      "presetLabelCreatesHtml": true,
+      "shaderLabelCreatesHtml": true,
+      "presetText": "plain text expected",
+      "shaderText": "plain text expected:"
+    }
+  },
+  "installation": {
+    "performed": false,
+    "reason": "User chose self-installation instead of letting agent control Vivaldi"
+  },
+  "zip": {
+    "name": "VideoFilters-1.4.1-audited.zip",
+    "size": 31346,
+    "sha256": "18711cc5e705010ea9a2bece143b1f41c4dc804bfb6ed3d4d8c814a93e0dc834",
+    "entries": 21
+  },
+  "source_archive": {
+    "name": "VideoFilters-1.4.1-source.zip",
+    "size": 752195,
+    "sha256": "70a8b999fb8c2ce21af687677a9f503dbd4ee74660e92bc6951f3cfda87a926d"
+  }
+}
